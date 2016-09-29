@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_fa211ed975e18c682cb2ea8f936126aec7e9ae19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_3dba81055d9319de1ae8642d3930a37dc5fb4880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_45aeae7c4f639d122b5f9df38e82f3f94eb0f245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_1998a0b1095c5a61904db0a91496efd5eed6ac1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_9154ee05ec6ccd94157e8276d1f86685b3f133cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_589f31b1afa371fc4bd113962bb3685791ae7721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_ce8235f320b4bd1b844d4f5e21517335c71d35b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_343e75cc910ccbdcb6c52ab1af352ab16ae5befb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_07ca6e9e34201822372fdbd0991568d96e8ccc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_ae8ef9506b07402524be5570e3296f314b8f8dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_8e7db97f62402ef2354dd0f2432dae15f40a2a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.0\7d0473896b3b10b23a2f9812fec4316dff8afdd\firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.0_fc0c65a7a8baf0c67794dcfe8d7b16cc3f82f1c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_ef9d54fbe6af551d785d57f8f3004540e666d9e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_e362c3b50b9a1779096472fe50dbbad0f61ddc80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_c2129eca57276691ff045a67a686668c7dcf5f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.0\c0af904657634f7ab9cc21e75d80250570033321\firebase-client-jvm-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.0_eb5122c0801a99b58e231149c09c3ff6c522a176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_1e09a6b034fe4f1345b007e752d4cc5cc67bcd9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_5d9bf01d54341920f0fdc6a7c39c3846d799e70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_34d126125bd03254ba4c56c1e6d60ad925cc67e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_568b24fd6bb2acf78bd0925ad307a5684296e4b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_142aa7cfa1db55ea72758459f76f393e960c4e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_6eeb7a28bd04a0480139097d4d3d945503b2ec43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_9a5c9800fcf64506dce030909269e2933a382993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_eb8fd0adc7564d2231c0282bea4953407ccafd6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_5068b35ae6146fd2612e2f4c58a3567f60b2ddca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alabhya Vaibhav\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_63c9b482129c1a8a026ee501ec83b0114dc55a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\My Files\Projects\android apps\YourBox\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_117e13d6e53b64006256cb64287365a9c6eef789.jar" />
+    </item>
+
+</items>

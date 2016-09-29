@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "828299834786",
+    "firebase_url": "https://yourbox-aa177.firebaseio.com",
+    "project_id": "yourbox-aa177",
+    "storage_bucket": "yourbox-aa177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828299834786:android:04ca1f7385bc2d46",
+        "android_client_info": {
+          "package_name": "in.kodex.alabhyavaibhav.yourbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828299834786-kc6b84ulq0bah7siu51pm6lqdrk70udn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneq1LK70JTUWnZnoq4fmfxVEL73jWTnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
